@@ -1,2 +1,109 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <yml_catalog date="2021-07-17 12:10">
+<shop>
+<name>Вера</name>
+<company>Стоматология Вера</company>
+<url>https://stomvera.ru/</url>
+<email>natasha_sidorova01@mail.ru</email>
+<picture>https://stomvera.ru/wp-content/uploads/2023/02/logotip-czvet-1.svg</picture>
+<description>Стоматологическая клиника с большим опытом работы. Квалифицированные врачи, инновационное лечение, гарантия качества.</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Врач</category>
+</categories>
+<sets>
+<set id="set_1">
+<name>Стоматолог-терапевт</name>
+<url>https://stomvera.ru/boltik-anton-sergeevich/</url>
+</set>
+<set id="set_3">
+<name>Стоматолог-хирург</name>
+<url>https://stomvera.ru/boltik-aleksej-sergeevich/</url>
+</set>
+<set id="set_4">
+<name>Стоматолог-ортопед</name>
+<url>https://stomvera.ru/boltik-anton-sergeevich/</url>
+</set>
+</sets>
+<offers>
+<offer id="vrach15425" group_id="1">
+<categoryId>1</categoryId>
+<set-ids>set_1,set_4</set-ids>
+<name>Болтик Антон Сергеевич</name>
+<url>https://stomvera.ru/boltik-anton-sergeevich/</url>
+<price from="true">650</price>
+<oldprice>715</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<description>Лечение кариеса, пульпита, периодонтита с использованием операционного микроскопа</description>
+<picture>https://stomvera.ru/wp-content/uploads/2023/02/boltik.jpg</picture>
+<param name="Фамилия">Болтик</param>
+<param name="Имя">Антон</param>
+<param name="Отчество">Сергеевич</param>
+<param name="Годы опыта">10</param>
+<param name="Начало карьеры">2012-09-01</param>
+<param name="Город">г. Владивосток</param>
+<param name="Звание">Профессор</param>
+<param name="Категория">Первая категория</param>
+<param name="Город клиники">Владивосток</param>
+<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11.</param>
+<param name="Название клиники">Стоматология Вера</param>
+<param name="Возможность записи">true</param>
+<param name="Телефон для записи">8 (423) 220-44-38</param>
+<param name="Образование - 1" unit="Организация">Стоматология Вера</param>
+<param name="Образование - 1" unit="Дата"/>
+<param name="Образование - 1" unit="Название">Ординатура</param>
+<param name="Образование - 1" unit="Специальность">Ортопедия</param>
+</offer>
+<offer id="vrach15426" group_id="2">
+<categoryId>1</categoryId>
+<set-ids>set_3</set-ids>
+<name>Болтик Алексей Сергеевич</name>
+<url>https://stomvera.ru/boltik-aleksej-sergeevich/</url>
+<price from="true">650</price>
+<oldprice>715</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<description>Врач высшей категории, главный врач. Комплексное стоматологическое лечение с использованием передовых методик на основе компьютерных технологий и цифрового сканирования.</description>
+<picture>https://stomvera.ru/wp-content/uploads/2023/02/boltik-aleksej.jpg</picture>
+<param name="Фамилия">Болтик</param>
+<param name="Имя">Алексей</param>
+<param name="Отчество">Сергеевич</param>
+<param name="Годы опыта">23</param>
+<param name="Начало карьеры">2001-07-29</param>
+<param name="Степень">Кандидат наук</param>
+<param name="Звание">Профессор</param>
+<param name="Категория">Первая категория</param>
+<param name="Город клиники">Владивосток</param>
+<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11.</param>
+<param name="Название клиники">Стоматология Вера</param>
+<param name="Телефон для записи">8 (423) 220-44-38</param>
+</offer>
+<offer id="vrach15427" group_id="3">
+<categoryId>1</categoryId>
+<set-ids>set_3</set-ids>
+<name>Нескромнюк (Кузьменко) Ольга Александровна</name>
+<url>https://stomvera.ru/neskromnyuk-kuzmenko-olga-aleksandrovna/</url>
+<price from="true">650</price>
+<oldprice>715</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<description>Специализируется на диагностике, терапии заболеваний тканей пародонта и слизистой оболочки полости рта.</description>
+<picture>https://stomvera.ru/wp-content/uploads/2023/02/neskromnyuk-olga.jpg</picture>
+<param name="Фамилия">Нескромнюк</param>
+<param name="Имя">(Кузьменко)</param>
+<param name="Отчество">Ольга</param>
+<param name="Годы опыта">12</param>
+<param name="Степень">Кандидат наук</param>
+<param name="Звание">Профессор</param>
+<param name="Категория">Первая категория</param>
+<param name="Город клиники">г. Владивосток</param>
+<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11</param>
+<param name="Название клиники">Стоматология Вера</param>
+<param name="Телефон для записи">8 (423) 220-44-38</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
