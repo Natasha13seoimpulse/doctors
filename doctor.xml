@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2021-07-17 12:10">
+<yml_catalog date="2024-02-05 12:10">
 <shop>
 <name>Вера</name>
 <company>Стоматология Вера</company>
 <url>https://stomvera.ru/</url>
-<email>natasha_sidorova01@mail.ru</email>
+<email>stomveravl@mail.ru</email>
 <picture>https://stomvera.ru/wp-content/uploads/2023/02/logotip-czvet-1.svg</picture>
 <description>Стоматологическая клиника с большим опытом работы. Квалифицированные врачи, инновационное лечение, гарантия качества.</description>
 <currencies>
@@ -14,19 +14,23 @@
 <category id="1">Врач</category>
 </categories>
 <sets>
-<set id="set_1">
-<name>Стоматолог-терапевт</name>
-<url>https://stomvera.ru/boltik-anton-sergeevich/</url>
-</set>
-<set id="set_3">
+<set id="set_6">
 <name>Стоматолог-хирург</name>
-<url>https://stomvera.ru/boltik-aleksej-sergeevich/</url>
+<url>https://stomvera.ru/category/nasha-komanda/</url>
+</set>
+<set id="set_7">
+<name>Стоматолог-ортопед</name>
+<url>https://stomvera.ru/category/nasha-komanda/</url>
+</set>
+<set id="set_8">
+<name>Стоматолог-терапевт</name>
+<url>https://stomvera.ru/category/nasha-komanda/</url>
 </set>
 </sets>
 <offers>
 <offer id="vrach15425" group_id="1">
 <categoryId>1</categoryId>
-<set-ids>set_1</set-ids>
+<set-ids>set_7</set-ids>
 <name>Болтик Антон Сергеевич</name>
 <url>https://stomvera.ru/boltik-anton-sergeevich/</url>
 <price from="true">650</price>
@@ -38,13 +42,18 @@
 <param name="Фамилия">Болтик</param>
 <param name="Имя">Антон</param>
 <param name="Отчество">Сергеевич</param>
-<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11.</param>
+<param name="Годы опыта">10</param>
+<param name="Город">г. Владивосток</param>
+<param name="Взрослый врач">true</param>
+<param name="Город клиники">г. Владивосток</param>
+<param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
-<param name="Телефон для записи">8 (423) 220-44-38</param>
+<param name="Возможность записи">true</param>
+<param name="Телефон для записи">8(423)220-44-38</param>
 </offer>
 <offer id="vrach15426" group_id="2">
 <categoryId>1</categoryId>
-<set-ids>set_3</set-ids>
+<set-ids>set_6</set-ids>
 <name>Болтик Алексей Сергеевич</name>
 <url>https://stomvera.ru/boltik-aleksej-sergeevich/</url>
 <price from="true">650</price>
@@ -56,13 +65,18 @@
 <param name="Фамилия">Болтик</param>
 <param name="Имя">Алексей</param>
 <param name="Отчество">Сергеевич</param>
-<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11.</param>
+<param name="Годы опыта">23</param>
+<param name="Город">г. Владивосток</param>
+<param name="Взрослый врач">true</param>
+<param name="Город клиники">г. Владивосток,</param>
+<param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
-<param name="Телефон для записи">8 (423) 220-44-38</param>
+<param name="Возможность записи">true</param>
+<param name="Телефон для записи">8(423)220-44-38</param>
 </offer>
 <offer id="vrach15427" group_id="3">
 <categoryId>1</categoryId>
-<set-ids>set_3</set-ids>
+<set-ids>set_8</set-ids>
 <name>Нескромнюк (Кузьменко) Ольга Александровна</name>
 <url>https://stomvera.ru/neskromnyuk-kuzmenko-olga-aleksandrovna/</url>
 <price from="true">650</price>
@@ -71,12 +85,17 @@
 <sales_notes>Первичный прием</sales_notes>
 <description>Специализируется на диагностике, терапии заболеваний тканей пародонта и слизистой оболочки полости рта.</description>
 <picture>https://stomvera.ru/wp-content/uploads/2023/02/neskromnyuk-olga.jpg</picture>
-<param name="Фамилия">Нескромнюк</param>
-<param name="Имя">(Кузьменко)</param>
-<param name="Отчество">Ольга</param>
-<param name="Адрес клиники">г. Владивосток, Народный пр-кт, 11</param>
+<param name="Фамилия">Нескромнюк (Кузьменко)</param>
+<param name="Имя">Ольга</param>
+<param name="Отчество">Александровна</param>
+<param name="Годы опыта">12</param>
+<param name="Город">г. Владивосток</param>
+<param name="Взрослый врач">true</param>
+<param name="Город клиники">г. Владивосток</param>
+<param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
-<param name="Телефон для записи">8 (423) 220-44-38</param>
+<param name="Возможность записи">true</param>
+<param name="Телефон для записи">8(423)220-44-38</param>
 </offer>
 </offers>
 </shop>
