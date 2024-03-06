@@ -43,9 +43,9 @@
 <param name="Имя">Антон</param>
 <param name="Отчество">Сергеевич</param>
 <param name="Годы опыта">10</param>
-<param name="Город">г. Владивосток</param>
+<param name="Город">Владивосток</param>
 <param name="Взрослый врач">true</param>
-<param name="Город клиники">г. Владивосток</param>
+<param name="Город клиники">Владивосток</param>
 <param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
 <param name="Возможность записи">true</param>
@@ -66,9 +66,9 @@
 <param name="Имя">Алексей</param>
 <param name="Отчество">Сергеевич</param>
 <param name="Годы опыта">23</param>
-<param name="Город">г. Владивосток</param>
+<param name="Город">Владивосток</param>
 <param name="Взрослый врач">true</param>
-<param name="Город клиники">г. Владивосток,</param>
+<param name="Город клиники">Владивосток,</param>
 <param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
 <param name="Возможность записи">true</param>
@@ -89,9 +89,9 @@
 <param name="Имя">Ольга</param>
 <param name="Отчество">Александровна</param>
 <param name="Годы опыта">12</param>
-<param name="Город">г. Владивосток</param>
+<param name="Город">Владивосток</param>
 <param name="Взрослый врач">true</param>
-<param name="Город клиники">г. Владивосток</param>
+<param name="Город клиники">Владивосток</param>
 <param name="Адрес клиники">Народный проспект, д. 11</param>
 <param name="Название клиники">Стоматология Вера</param>
 <param name="Возможность записи">true</param>
